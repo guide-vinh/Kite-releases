@@ -7,14 +7,14 @@
         <language>en</language>
         <item>
             <title>Version 0.1.1</title>
-            <pubDate>Thu, 19 Nov 2026 02:12:01 GMT</pubDate>
-            <sparkle:version>3</sparkle:version>
+            <pubDate>Thu, 19 Nov 2026 03:50:19 GMT</pubDate>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/guide-vinh/Kite-releases/releases/download/v0.1.1/Kite-0.1.1.zip"
-                sparkle:edSignature="NemY0+BzUiXuV5gDwAsZCxjuIGUM+/2DkLQ0wS7hRw+l9qHXYxkZupxRJ37GyMblL+0buRffnU2maFYE+JdsBw=="
-                length="14781592"
+                sparkle:edSignature="PmZLCFGICrQ7UBWryiY717enqAiKlvGP27bHHHLPYoiyY9kWS+5hLaQncTCwNlyTZYcdp5dL8T3KgHqggiO8Aw=="
+                length="14781573"
                 type="application/octet-stream" />
         </item>
     </channel>
