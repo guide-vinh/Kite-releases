@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Kite</title>
+        <link>https://raw.githubusercontent.com/guide-vinh/Kite-releases/main/appcast.xml</link>
+        <description>Kite updates</description>
+        <language>en</language>
+    </channel>
+</rss>
