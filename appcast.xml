@@ -17,5 +17,17 @@
                 length="14781573"
                 type="application/octet-stream" />
         </item>
+        <item>
+            <title>Version 0.1.2</title>
+            <pubDate>Sat, 21 Nov 2026 00:15:09 GMT</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/guide-vinh/Kite-releases/releases/download/v0.1.2/Kite-0.1.2.zip"
+                sparkle:edSignature="dc+1FMd7DznHb0Ot4PqcVHm+JSfm4WzmFPupvuxSy7KQJ/A33C/I6gSWCoR7cFOOsraEQTc26qIQSTeHnW80BA=="
+                length="15635988"
+                type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
